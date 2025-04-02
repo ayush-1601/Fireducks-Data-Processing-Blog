@@ -2,13 +2,9 @@
 This repository contains benchmarking tests comparing FireDucks and Pandas for handling large datasets efficiently.
 
 ## Setup Instructions
-1. Install dependencies:
+   Run the benchmark script:
    ```sh
-   pip install -r requirements.txt
-   ```
-2. Run the benchmark script:
-   ```sh
-   python benchmark.py
+   python script.py
    ```
 
 ## Benchmarking Details
